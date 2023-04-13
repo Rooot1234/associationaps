@@ -1,0 +1,32 @@
+a{
+	text-decoration: none;
+}
+header
+{
+	text-align: right;
+	background-color: orange;
+	font-size: 20px;
+}
+legend{
+	text-align: center;
+}
+input{
+	border-color: blueviolet;
+	height: 25px;
+	width: 300px;
+}
+#submit{
+	width: 70px;
+}
+body{
+	margin-left: 100px;
+	margin-right: 100px;
+}
+.inmenbre{
+	padding-left:400px ;
+	padding-right:400px ;
+}
+fieldset{
+	background-color: beige;
+}
+
